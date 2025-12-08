@@ -28,7 +28,7 @@
 
 ## AI 写作
 
-* [生图提示词](ai-xie-zuo/sheng-tu-ti-shi-ci.md)
+* [生图提示词](ai-xie-zuo/tu-pian.md)
 * [视频相关](ai-xie-zuo/shi-pin-xiang-guan.md)
 * [AI 写作指南](ai-xie-zuo/ai-xie-zuo-zhi-nan.md)
 * [3 个提示词帮你去除 AI 味](ai-xie-zuo/3-ge-ti-shi-ci-bang-ni-qu-chu-ai-wei.md)

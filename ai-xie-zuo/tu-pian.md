@@ -7,12 +7,12 @@
 <strong>示例： { "image_description": { "subject": "A Japanese woman with natural fresh beauty taking a lifestyle photo near Burj Khalifa during daytime. She holds a Binance-themed drink bottle or tote bag in a casual, influencer-style pose.", "photo_style": { "type": "bright lifestyle portrait", "lighting": "strong Dubai sunlight, clear blue sky", "camera_angle": "eye-level iPhone-style shot", "mood": "fresh, travel, luxury" }, "clothing_and_appearance": { "outfit": "light summer dress with soft yellow-black Binance-inspired accents", "accessories": "sunglasses, gold jewelry", "expression": "joyful, relaxed" }, "environment": { "setting": "Dubai Downtown, near Burj Khalifa", "background_elements": [ "clear blue sky", "towering Burj Khalifa", "modern Dubai architecture", "palm trees and water features" ] }, "aesthetic": { "style": "Instagram travel influencer", "features": [ "sun-kissed tones", "clean composition", "Binance yellow color accents" ] } } }
 </strong></code></pre>
 
-{% columns fullWidth="true" %}
-{% column width="50%" %}
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/c6c8715a-a0e2-4430-b71c-b261ccfd5ac1.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="50%" %}
+{% column %}
 {% code title="" fullWidth="true" expandable="true" %}
 ```
 [THEME] = 意式咖啡保姆级教程
@@ -92,8 +92,6 @@ Clean Composition, Clear Info Blocks
 Cute Doodles Everywh
 ```
 {% endcode %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
