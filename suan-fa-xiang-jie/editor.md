@@ -10,4 +10,4 @@
 
 𝕏 对外链打击得比较狠，**如果一定要发外链，可以选择在评论区发，或者放在图片里。**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

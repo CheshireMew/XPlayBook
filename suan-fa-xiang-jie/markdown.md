@@ -2,7 +2,7 @@
 
 推文的评分主要基于以下几个特征：**文本长度、可读性、喊叫程度（Shoutness）、文本熵**、以及**链接**的使用。&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 以下是一些通俗易懂的相关建议：&#x20;
 

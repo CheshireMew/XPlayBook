@@ -16,4 +16,4 @@
 1. **加上很多带有你个人风格和特色的东西**，比如卖萌（不是）。&#x20;
 2. **学着将你的内容包装成产品**，比如说对一个项目详细分析的文章和一篇简单的喊单推文，很明显前者的抄袭成本更高一些。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

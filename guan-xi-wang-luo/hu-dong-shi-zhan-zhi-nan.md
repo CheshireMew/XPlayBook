@@ -110,4 +110,4 @@
 
 你还可以问一些更个人化的问题，比如“你第一次接触 Web3 是什么时候？”或者“你觉得未来五年，哪个领域会是 Web3 的下一个爆发点？”这些问题既能激发关注者的思考，也能让他们分享自己的观点。
 
-![](<../.gitbook/assets/image (3).png>)[<br>](https://x.com/0xCheshire/article/1829887654063980772/media/1829887587353575427)
+![](<../.gitbook/assets/image (3) (1).png>)[<br>](https://x.com/0xCheshire/article/1829887654063980772/media/1829887587353575427)
