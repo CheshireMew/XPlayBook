@@ -28,6 +28,7 @@
 
 ## AI 写作
 
+* [写推文](ai-xie-zuo/xie-tui-wen.md)
 * [生图提示词](ai-xie-zuo/tu-pian.md)
 * [视频相关](ai-xie-zuo/shi-pin-xiang-guan.md)
 * [AI 写作指南](ai-xie-zuo/ai-xie-zuo-zhi-nan.md)
